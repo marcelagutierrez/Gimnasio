@@ -1,0 +1,12 @@
+create table pechoTabla (idejercicio int PRIMARY KEY, nomnre text, repeticiones int, series int, indicehabitoejercicio float, contraindicacion text)
+create table piernaTabla (idejercicio int PRIMARY KEY, nomnre text, repeticiones int, series int, indicehabitoejercicio float, contraindicacion text)
+create table espaldaTabla (idejercicio int PRIMARY KEY, nomnre text, repeticiones int, series int, indicehabitoejercicio float, contraindicacion text)
+create table abdominalesTabla (idejercicio int PRIMARY KEY, nomnre text, repeticiones int, series int, indicehabitoejercicio float, contraindicacion text)
+
+
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('1','Abdominales: Crunches','5', '3', '1', 'Ninguno')
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('2','Abdominales: Crunches','5', '4', '2', 'Ninguno')
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('3','Abdominales: Crunches','8', '4', '3', 'Ninguno')
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('4','Abdominales: Crunches','15', '4', '4', 'Ninguno')
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('5','Abdominales: Crunches','30', '4', '5', 'Ninguno')
+Insert Into abdominalesTabla(idejercicio, nombre, repeticiones, series, indicehabitoejercicio, contraindicacion) values ('6','Abdominales: Plancha','15', '3', '0', 'Espalda')

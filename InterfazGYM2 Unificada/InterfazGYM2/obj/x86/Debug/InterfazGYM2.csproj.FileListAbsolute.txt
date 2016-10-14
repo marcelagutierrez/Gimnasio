@@ -1,0 +1,87 @@
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+c:\users\marxe\onedrive\documentos\visual studio 2010\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Salud.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Habitos.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Salud.resources
+C:\Users\JHON\Desktop\InterfazGYM2\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Habitos.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Salud.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.consultar_cliente.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.consultar_cliente.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Habitos.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Salud.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Alerta.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Rutina.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.consultar_cliente.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Rutina.resources
+C:\Users\JHON\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Alerta.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.consultar_cliente.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Rutina.resources
+C:\Users\Steven Felipe\Documents\Visual Studio 2015\Projects\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.exe
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.pdb
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.exe
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\bin\Debug\InterfazGYM2.pdb
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csprojResolveAssemblyReference.cache
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.consultar_cliente.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Inicio.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.MenuRegistro.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Properties.Resources.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Registro.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.Rutina.resources
+C:\Users\marxe\Desktop\InterfazGYM2 Unificada\InterfazGYM2\obj\x86\Debug\InterfazGYM2.csproj.GenerateResource.Cache
